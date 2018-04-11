@@ -1,0 +1,17 @@
+requests
+bs4
+pypiwin32==219
+decorator
+fake_useragent
+pyuserinput
+pillow
+numpy
+pandas
+opencv-python
+aircv
+pyautogui
+selenium
+celery==3.1.15
+tornado-celery
+pymongo==2.8
+redis
